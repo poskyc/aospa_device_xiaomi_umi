@@ -73,6 +73,7 @@ PRODUCT_PACKAGES += \
     vendor.aospa.biometrics.fingerprint.inscreen@1.0-service
 
 PRODUCT_PACKAGES += \
+    vendor.goodix.hardware.biometrics.fingerprint@2.1.vendor \
     vendor.xiaomi.hardware.fingerprintextension@1.0.vendor
 
 # Bluetooth
