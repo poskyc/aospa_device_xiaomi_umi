@@ -113,6 +113,11 @@ PRODUCT_PACKAGES += \
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
+# Overlays
+PRODUCT_PACKAGES += \
+    FrameworksResTarget \
+    WifiResTarget
+
 # Partitions
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
 
