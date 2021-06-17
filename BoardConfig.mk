@@ -62,6 +62,9 @@ TARGET_SCREEN_DENSITY := 420
 # Gestures
 TARGET_TAP_TO_WAKE_NODE := "/sys/touchpanel/double_tap"
 
+# Fingerprint
+TARGET_SURFACEFLINGER_FOD_LIB := //$(DEVICE_PATH):libfod_extension
+
 # HIDL
 DEVICE_FRAMEWORK_COMPATIBILITY_MATRIX_FILE += \
     $(DEVICE_PATH)/vintf/xiaomi_vendor_framework_compatibility_matrix.xml
