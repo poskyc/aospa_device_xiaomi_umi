@@ -63,6 +63,7 @@ TARGET_SCREEN_DENSITY := 420
 TARGET_TAP_TO_WAKE_NODE := "/sys/touchpanel/double_tap"
 
 # Fingerprint
+TARGET_USES_FOD_ZPOS := true
 TARGET_SURFACEFLINGER_FOD_LIB := //$(DEVICE_PATH):libfod_extension
 
 # HIDL
