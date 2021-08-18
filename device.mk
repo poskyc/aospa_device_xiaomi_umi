@@ -61,3 +61,6 @@ PRODUCT_SHIPPING_API_LEVEL := 29
 # WLAN
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/wlan/WCNSS_qcom_cfg_qca6390.ini:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/WCNSS_qcom_cfg.ini
+
+# Vendor
+$(call inherit-product, vendor/xiaomi/umi/umi-vendor.mk)
