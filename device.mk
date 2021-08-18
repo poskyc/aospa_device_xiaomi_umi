@@ -36,8 +36,11 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     fstab.qcom \
+    init.mi.usb.sh \
     init.qti.dcvs.sh \
-    init.target.rc
+    init.target.rc \
+    init.xiaomi.rc \
+    ueventd.xiaomi.rc
 
 # Namespaces
 PRODUCT_SOONG_NAMESPACES += \
