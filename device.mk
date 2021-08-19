@@ -115,7 +115,11 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Overlays
 PRODUCT_PACKAGES += \
+    AOSPAUmiSettings \
+    AOSPAUmiSystemUI \
     FrameworksResTarget \
+    UmiFrameworks \
+    UmiSystemUI \
     WifiResTarget
 
 # Partitions
