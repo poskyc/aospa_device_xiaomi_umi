@@ -37,6 +37,7 @@ on post-fs-data
     mkdir /data/vendor/nfc 0770 nfc nfc
 
 on boot
+    chown system system /sys/touchpanel/double_tap
     chown system system /sys/class/touch/touch_dev/palm_sensor
     mkdir /mnt/vendor/persist/camera 0755 system cameraserver
     chmod 0444 /sys/class/drm/card0-DSI-1/panel_info
