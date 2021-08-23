@@ -1392,8 +1392,10 @@ vendor/firmware/NFC_card_slow_rtp.bin
 vendor/firmware/aw8697_haptic.bin
 vendor/firmware/aw8697_rtp_1.bin
 
+# WiFi - from nio - LA.UM.9.12.r1-10800-SMxx50.0
+vendor/bin/cnss-daemon|bee345a67a4203cad55b6d481d07a64f35468595
+
 # WLAN - from UMI - V12.5.6.0.RJBCNXM
-vendor/bin/cnss-daemon
 vendor/bin/nv_mac
 
 # Widevine - from UMI - V12.5.6.0.RJBCNXM
