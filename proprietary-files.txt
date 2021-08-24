@@ -705,8 +705,8 @@ vendor/lib64/libfastcvdsp_stub.so
 -vendor/lib64/libfastcvopt.so
 
 # Fingerprint - from UMI - V12.5.6.0.RJBCNXM
-vendor/lib64/hw/fingerprint.fpc_fod.so
-vendor/lib64/hw/fingerprint.goodix_fod.so
+vendor/lib64/hw/fingerprint.fpc_fod.so:vendor/lib64/hw/fingerprint.fpc_fod.default.so
+vendor/lib64/hw/fingerprint.goodix_fod.so:vendor/lib64/hw/fingerprint.goodix_fod.default.so
 vendor/lib64/libgf_hal.so
 
 # GPS
