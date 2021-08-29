@@ -1310,6 +1310,9 @@ vendor/etc/sensors/proto/sns_wrist_tilt_gesture.proto
 vendor/etc/sensors/sns_reg_config
 vendor/etc/elliptic_sensor.xml
 
+# Soter - from UMI - V12.5.6.0.RJBCNXM
+-vendor/app/SoterService/SoterService.apk
+
 # Soter
 vendor/bin/hw/vendor.qti.hardware.soter@1.0-service
 vendor/bin/vendor.qti.hardware.soter@1.0-provision
