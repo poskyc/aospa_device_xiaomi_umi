@@ -7,6 +7,9 @@ type vendor_fp_prop, property_type;
 # Global
 type vendor_miui_region_prop, property_type;
 
+# Mlipay
+vendor_public_prop(vendor_payment_security_prop)
+
 # Thermal
 type thermal_normal_prop, property_type;
 
