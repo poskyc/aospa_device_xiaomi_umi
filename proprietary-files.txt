@@ -1,6 +1,6 @@
 # All the unpinned blobs are from extracted from LA.UM.9.12.r1-11500-SMxx50.0
 
-# ACDB - from UMI - V12.5.6.0.RJBCNXM
+# ACDB - from UMI - V12.5.7.0.RJBCNXM
 vendor/etc/acdbdata/Tutu/Tutu_Bluetooth_cal.acdb
 vendor/etc/acdbdata/Tutu/Tutu_General_cal.acdb
 vendor/etc/acdbdata/Tutu/Tutu_Global_cal.acdb
@@ -11,7 +11,7 @@ vendor/etc/acdbdata/Tutu/Tutu_Speaker_cal.acdb
 vendor/etc/acdbdata/Tutu/Tutu_workspaceFile.qwsp
 vendor/etc/acdbdata/adsp_avs_config.acdb
 
-# ACDB Loader - from UMI - V12.5.6.0.RJBCNXM
+# ACDB Loader - from UMI - V12.5.7.0.RJBCNXM
 vendor/lib/libacdb-fts.so
 vendor/lib/libacdbloader.so
 vendor/lib/libacdbrtac.so
@@ -39,7 +39,7 @@ vendor/lib64/libssc_default_listener.so
 vendor/lib64/libsysmon_cdsp_skel.so
 vendor/lib64/vendor.qti.hardware.dsp@1.0.so
 
-# ADSP Modules - from UMI - V12.5.6.0.RJBCNXM
+# ADSP Modules - from UMI - V12.5.7.0.RJBCNXM
 vendor/lib/rfsa/adsp/capi_v2_aptX_CLHDAD_Speech_Decoder.so
 vendor/lib/rfsa/adsp/capi_v2_aptX_CLHDADV_Encoder.so
 vendor/lib/rfsa/adsp/capi_v2_cirrus_sp.so
@@ -71,7 +71,7 @@ vendor/lib/rfsa/adsp/misound_res.bin
 vendor/lib64/rfsa/adsp/libsns_device_mode_skel.so
 vendor/lib64/rfsa/adsp/libsns_low_lat_stream_skel.so
 
-# Adreno - from UMI - V12.5.6.0.RJBCNXM
+# Adreno - from UMI - V12.5.7.0.RJBCNXM
 vendor/firmware/a650_gmu.bin
 vendor/firmware/a650_sqe.fw
 vendor/firmware/a650_zap.b00
@@ -87,7 +87,7 @@ vendor/etc/init/vendor.qti.hardware.alarm@1.0-service.rc
 vendor/lib64/hw/vendor.qti.hardware.alarm@1.0-impl.so
 vendor/lib64/vendor.qti.hardware.alarm@1.0.so
 
-# Audio Configs - from UMI - V12.5.6.0.RJBCNXM
+# Audio Configs - from UMI - V12.5.7.0.RJBCNXM
 vendor/etc/audio_configs.xml
 vendor/etc/audio_configs_stock.xml
 vendor/etc/audio_effects.conf
@@ -101,7 +101,7 @@ vendor/etc/mixer_paths_overlay_static.xml
 vendor/etc/sound_trigger_mixer_paths.xml
 vendor/etc/sound_trigger_platform_info.xml
 
-# Audio - from UMI - V12.5.6.0.RJBCNXM
+# Audio - from UMI - V12.5.7.0.RJBCNXM
 vendor/bin/audioflacapp
 vendor/lib/hw/audio.primary.kona.so
 vendor/lib/hw/vendor.qti.hardware.audiohalext@1.0-impl.so
@@ -137,7 +137,7 @@ vendor/lib64/libssrec.so
 vendor/lib64/vendor.qti.hardware.audiohalext@1.0.so
 vendor/lib64/vendor.qti.voiceprint@1.0.so
 
-# Audio FX Modules - from UMI - V12.5.6.0.RJBCNXM
+# Audio FX Modules - from UMI - V12.5.7.0.RJBCNXM
 vendor/lib/soundfx/libasphere.so
 vendor/lib/soundfx/libmisoundfx.so
 vendor/lib/soundfx/libqcbassboost.so
@@ -150,7 +150,7 @@ vendor/lib64/soundfx/libqcreverb.so
 vendor/lib64/soundfx/libqcvirt.so
 vendor/lib64/soundfx/libshoebox.so
 
-# Audio (Firmware) - from UMI - V12.5.6.0.RJBCNXM
+# Audio (Firmware) - from UMI - V12.5.7.0.RJBCNXM
 vendor/firmware/cs35l41-dsp1-diag-revb2.wmfw
 vendor/firmware/cs35l41-dsp1-diag-z-RCV-revb2.bin
 vendor/firmware/cs35l41-dsp1-diag-z-revb2.bin
@@ -274,7 +274,7 @@ vendor/lib64/libcvp_common.so
 vendor/lib64/libcvpcpuRev_skel.so
 vendor/lib64/vendor.qti.hardware.cvp@1.0.so
 
-# Camera - from UMI - V12.5.6.0.RJBCNXM
+# Camera - from UMI - V12.5.7.0.RJBCNXM
 vendor/lib64/camera/com.qti.actuator.umi_dw9800_ov16e10.so
 vendor/lib64/camera/com.qti.actuator.umi_gc021m1_macro_dw9714.so
 vendor/lib64/camera/com.qti.eeprom.truly_cmb433.so
@@ -399,7 +399,7 @@ vendor/lib64/libvidhance.so
 vendor/lib64/libxmi_high_dynamic_range.so
 vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so
 
-# Camera-arcsoft - from UMI - V12.5.6.0.RJBCNXM
+# Camera-arcsoft - from UMI - V12.5.7.0.RJBCNXM
 vendor/lib64/libarcsoft_beautyshot.so
 vendor/lib64/libarcsoft_bodyslim.so
 vendor/lib64/libarcsoft_distortion_correction.so
@@ -416,7 +416,7 @@ vendor/lib64/libarcsoft_preview_deflicker.so
 vendor/lib64/libarcsoft_super_night_raw.so
 vendor/lib64/libarcsoft_superportrait.so
 
-# Camera-camerax - from UMI - V12.5.6.0.RJBCNXM
+# Camera-camerax - from UMI - V12.5.7.0.RJBCNXM
 vendor/lib/libcamxexternalformatutils.so
 vendor/lib/libcamxfacialfeatures.so
 vendor/lib/libcamxfdalgo.so
@@ -438,7 +438,7 @@ vendor/lib64/libcamxstatscore.so
 vendor/lib64/libcamxswprocessalgo.so
 vendor/lib64/libcamxtintlessalgo.so
 
-# Camera-components - from UMI - V12.5.6.0.RJBCNXM
+# Camera-components - from UMI - V12.5.7.0.RJBCNXM
 vendor/lib64/camera/components/com.arcsoft.node.deflicker.so
 vendor/lib64/camera/components/com.arcsoft.node.smoothtransition.so
 vendor/lib64/camera/components/com.arcsoft.node.superportrait.so
@@ -501,7 +501,7 @@ vendor/lib64/camera/components/com.xiaomi.node.tracker.so
 vendor/lib64/camera/components/libdepthmapwrapper.so
 vendor/lib64/camera/components/libubifocus.so
 
-# Camera-configs - from UMI - V12.5.6.0.RJBCNXM
+# Camera-configs - from UMI - V12.5.7.0.RJBCNXM
 vendor/etc/camera/113_BlackIce.png
 vendor/etc/camera/ai_enhance.dlc
 vendor/etc/camera/almalence_sr_params_tele_iso100.config
@@ -556,12 +556,12 @@ vendor/etc/camera/sceneDetection.xml
 vendor/etc/camera/seg_quantized.dlc
 vendor/etc/camera/vidhance_calibration
 
-# Camera Firmware - from UMI - V12.5.6.0.RJBCNXM
+# Camera Firmware - from UMI - V12.5.7.0.RJBCNXM
 vendor/firmware/CAMERA_ICP.elf
 vendor/firmware/umi_ois.prog
 vendor/firmware/umi_ois.coeff
 
-# Charger - from UMI - V12.5.6.0.RJBCNXM
+# Charger - from UMI - V12.5.7.0.RJBCNXM
 vendor/bin/batterysecret
 vendor/bin/hvdcp_opti
 vendor/bin/init.qti.chg_policy.sh
@@ -579,7 +579,7 @@ vendor/bin/ssgtzd
 vendor/etc/init/ssgtzd.rc
 vendor/lib64/libminksocket.so
 
-# Consumer IR - from UMI - V12.5.6.0.RJBCNXM
+# Consumer IR - from UMI - V12.5.7.0.RJBCNXM
 vendor/lib/hw/consumerir.default.so
 vendor/lib64/hw/consumerir.default.so
 
@@ -639,7 +639,7 @@ vendor/lib/libdiagjni.so
 vendor/lib64/libdiag.so
 vendor/lib64/libdiagjni.so
 
-# Display Calibration - from UMI - V12.5.6.0.RJBCNXM
+# Display Calibration - from UMI - V12.5.7.0.RJBCNXM
 vendor/etc/ltm_config_xiaomi_38_0c_0a_cmd_mode_dsc_dsi_panel.xml
 vendor/etc/ltm_config_xiaomi_42_02_0b_cmd_mode_dsc_dsi_panel.xml
 vendor/etc/mdss_dsi_j2_p2_1_38_0c_0a_dsc_cmd_mi.xml
@@ -647,7 +647,7 @@ vendor/etc/mdss_dsi_j2_mp_42_02_0b_dsc_cmd_mi.xml
 vendor/etc/qdcm_calib_data_xiaomi_38_0c_0a_cmd_mode_dsc_dsi_panel.xml
 vendor/etc/qdcm_calib_data_xiaomi_42_02_0b_cmd_mode_dsc_dsi_panel.xml
 
-# Display Hardware - from UMI - V12.5.6.0.RJBCNXM
+# Display Hardware - from UMI - V12.5.7.0.RJBCNXM
 vendor/lib64/libdisplayqos.so
 vendor/lib64/libdisplayskuutils.so
 vendor/lib64/libhdr_tm.so
@@ -660,7 +660,7 @@ vendor/lib64/libsdm-disp-vndapis.so
 vendor/lib64/libsdmextension.so
 vendor/lib64/libtinyxml2_1.so
 
-# Display Postprocessing - from UMI - V12.5.6.0.RJBCNXM
+# Display Postprocessing - from UMI - V12.5.7.0.RJBCNXM
 vendor/bin/hw/vendor.display.color@1.0-service
 vendor/bin/ppd
 vendor/bin/qdcmss
@@ -693,11 +693,11 @@ vendor/lib/libfastcvdsp_stub.so
 vendor/lib64/libfastcvdsp_stub.so
 -vendor/lib64/libfastcvopt.so
 
-# Feature Enabler Client - from UMI - V12.5.6.0.RJBCNXM
+# Feature Enabler Client - from UMI - V12.5.7.0.RJBCNXM
 vendor/bin/feature_enabler_client
 vendor/etc/init/feature_enabler_client.rc
 
-# Fingerprint - from UMI - V12.5.6.0.RJBCNXM
+# Fingerprint - from UMI - V12.5.7.0.RJBCNXM
 vendor/lib64/hw/fingerprint.fpc_fod.so:vendor/lib64/hw/fingerprint.fpc_fod.default.so
 vendor/lib64/hw/fingerprint.goodix_fod.so:vendor/lib64/hw/fingerprint.goodix_fod.default.so
 vendor/lib64/libgf_hal.so
@@ -763,7 +763,7 @@ vendor/lib64/vendor.qti.gnss@4.0.so
 vendor/lib64/vendor.qti.gnss@4.0-service.so
 vendor/lib64/vendor.qti.hardware.qccsyshal@1.0.so
 
-# Graphics - from UMI - V12.5.6.0.RJBCNXM
+# Graphics - from UMI - V12.5.7.0.RJBCNXM
 -vendor/app/com.qualcomm.qti.gpudrivers.kona.api30/com.qualcomm.qti.gpudrivers.kona.api30.apk;PRESIGNED
 
 # IMS - from LA.UM.9.12.r1-10800-SMxx50.0
@@ -810,7 +810,7 @@ vendor/lib64/vendor.qti.ims.rcsconfig@2.1.so
 vendor/lib64/vendor.qti.imsrtpservice@3.0.so
 vendor/lib64/vendor.qti.imsrtpservice@3.0-service-Impl.so
 
-# IPA Firmware - from UMI - V12.5.6.0.RJBCNXM
+# IPA Firmware - from UMI - V12.5.7.0.RJBCNXM
 vendor/firmware/ipa_fws.b00
 vendor/firmware/ipa_fws.b01
 vendor/firmware/ipa_fws.b02
@@ -891,7 +891,7 @@ vendor/lib/libnpu.so
 vendor/lib64/libhta_hexagon_runtime.so
 vendor/lib64/libnpu.so
 
-# Mlipay - from UMI - V12.5.6.0.RJBCNXM
+# Mlipay - from UMI - V12.5.7.0.RJBCNXM
 vendor/bin/mlipayd@1.1
 vendor/etc/init/vendor.xiaomi.hardware.mlipay@1.1-service.rc
 -vendor/etc/vintf/manifest/manifest_vendor.xiaomi.hardware.mlipay.xml
@@ -968,10 +968,10 @@ vendor/bin/pm-proxy
 vendor/bin/pm-service
 vendor/lib64/libperipheral_client.so
 
-# Perf - from UMI - V12.5.6.0.RJBCNXM
+# Perf - from UMI - V12.5.7.0.RJBCNXM
 vendor/etc/powerhint.xml
 
-# Public Libraries - from UMI - V12.5.6.0.RJBCNXM
+# Public Libraries - from UMI - V12.5.7.0.RJBCNXM
 vendor/etc/public.libraries.txt
 
 # QCC VND HAL - from LA.UM.9.12.r1-10800-SMxx50.0
@@ -1161,14 +1161,14 @@ vendor/lib64/liboemcrypto.so
 vendor/lib64/libtrustedapploader.so
 vendor/lib64/libtzdrmgenprov.so
 
-# Sensor Calibrate - from UMI - V12.5.6.0.RJBCNXM
+# Sensor Calibrate - from UMI - V12.5.7.0.RJBCNXM
 vendor/bin/hw/vendor.qti.hardware.sensorscalibrate@1.0-service
 vendor/etc/permissions/vendor-qti-hardware-sensorscalibrate.xml
 vendor/etc/init/vendor.qti.hardware.sensorscalibrate@1.0-service.rc
 vendor/lib64/hw/vendor.qti.hardware.sensorscalibrate@1.0-impl.so
 vendor/lib64/vendor.qti.hardware.sensorscalibrate@1.0.so
 
-# Sensors - from UMI - V12.5.6.0.RJBCNXM
+# Sensors - from UMI - V12.5.7.0.RJBCNXM
 vendor/bin/init.qcom.sensors.sh
 vendor/bin/sensors.qti
 vendor/bin/sscrpcd
@@ -1190,7 +1190,7 @@ vendor/lib64/sensors.elliptic.so
 vendor/lib64/sensors.ssc.so
 vendor/lib64/sensors.touch.so
 
-# Sensors-configs - from UMI - V12.5.6.0.RJBCNXM
+# Sensors-configs - from UMI - V12.5.7.0.RJBCNXM
 vendor/etc/sensors/config/ak991x_dri_0.json
 vendor/etc/sensors/config/bmp285_0.json
 vendor/etc/sensors/config/lsm6dso_0.json
@@ -1341,7 +1341,7 @@ vendor/lib64/libscveObjectTracker_stub.so
 vendor/lib64/vendor.qti.hardware.scve.objecttracker@1.0.so
 vendor/lib64/vendor.qti.hardware.scve.panorama@1.0.so
 
-# Soter - from UMI - V12.5.6.0.RJBCNXM
+# Soter - from UMI - V12.5.7.0.RJBCNXM
 -vendor/app/SoterService/SoterService.apk
 
 # Soter
@@ -1362,7 +1362,7 @@ vendor/lib64/libsubsystem_control.so
 vendor/bin/tftp_server
 vendor/etc/init/vendor.qti.tftp.rc
 
-# Thermal - from UMI - V12.5.6.0.RJBCNXM
+# Thermal - from UMI - V12.5.7.0.RJBCNXM
 vendor/bin/mi_thermald
 vendor/bin/thermal-engine
 vendor/etc/init/init.mi_thermald.rc
@@ -1394,7 +1394,7 @@ vendor/bin/time_daemon
 vendor/etc/init/init.time_daemon.rc
 vendor/lib64/libtime_genoff.so
 
-# Touch Feature - from UMI - V12.5.6.0.RJBCNXM
+# Touch Feature - from UMI - V12.5.7.0.RJBCNXM
 vendor/bin/toucheventcheck
 vendor/bin/hw/vendor.xiaomi.hardware.touchfeature@1.0-service
 vendor/etc/init/vendor.xiaomi.hardware.touchfeature@1.0-service.rc
@@ -1423,17 +1423,17 @@ vendor/lib64/vendor.qti.hardware.vpp@1.1.so
 vendor/lib64/vendor.qti.hardware.vpp@1.2.so
 vendor/lib64/vendor.qti.hardware.vpp@1.3.so
 
-# Vibrator Firmware - from UMI - V12.5.6.0.RJBCNXM
+# Vibrator Firmware - from UMI - V12.5.7.0.RJBCNXM
 vendor/firmware/aw8697_haptic.bin
 vendor/firmware/aw8697_rtp_1.bin
 
-# WLAN - from UMI - V12.5.6.0.RJBCNXM
+# WLAN - from UMI - V12.5.7.0.RJBCNXM
 vendor/bin/nv_mac
 
 # WiFi
 vendor/bin/cnss-daemon
 
-# Widevine - from UMI - V12.5.6.0.RJBCNXM
+# Widevine - from UMI - V12.5.7.0.RJBCNXM
 vendor/bin/hw/android.hardware.drm@1.3-service.widevine
 vendor/etc/init/android.hardware.drm@1.3-service.widevine.rc
 -vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.widevine.xml
