@@ -311,10 +311,11 @@ PRODUCT_PACKAGES += \
     libstagefrighthw
 
 # Overlays
-DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay-lineage
 PRODUCT_ENFORCE_RRO_TARGETS := *
 
 PRODUCT_PACKAGES += \
+    AOSPAUmiSettings \
+    AOSPAUmiSystemUI \
     CarrierConfigResCommon \
     FrameworksResCommon \
     FrameworksResTarget \
