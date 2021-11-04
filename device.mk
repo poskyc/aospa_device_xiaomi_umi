@@ -336,6 +336,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     vendor.qti.hardware.perf@2.2.vendor
 
+# Platform
+TARGET_BOARD_PLATFORM := kona
+
 # QMI
 PRODUCT_PACKAGES += \
     libjson
