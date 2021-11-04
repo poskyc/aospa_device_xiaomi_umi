@@ -313,14 +313,9 @@ PRODUCT_ENFORCE_RRO_TARGETS := *
 PRODUCT_PACKAGES += \
     AOSPAUmiSettings \
     AOSPAUmiSystemUI \
-    CarrierConfigResCommon \
-    FrameworksResCommon \
     FrameworksResTarget \
-    SystemUIResCommon \
-    TelephonyResCommon \
     UmiFrameworks \
     UmiSystemUI \
-    WifiResCommon \
     WifiResTarget
 
 # Partitions
@@ -332,6 +327,7 @@ TARGET_BOARD_PLATFORM := kona
 
 # QTI
 TARGET_COMMON_QTI_COMPONENTS := \
+    overlay \
     perf \
     telephony
 
