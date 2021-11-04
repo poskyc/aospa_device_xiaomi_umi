@@ -194,21 +194,14 @@ PRODUCT_BOOT_JARS += \
 
 # Init
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/init/fstab.qcom:$(TARGET_COPY_OUT_RAMDISK)/fstab.qcom \
-    $(LOCAL_PATH)/init/init.recovery.qcom.rc:recovery/root/init.recovery.qcom.rc
+    $(LOCAL_PATH)/init/fstab.qcom:$(TARGET_COPY_OUT_RAMDISK)/fstab.qcom
 
 PRODUCT_PACKAGES += \
     fstab.qcom \
-    init.mdm.sh \
     init.mi.usb.sh \
-    init.qcom.early_boot.sh \
-    init.qcom.post_boot.sh \
-    init.qcom.rc \
-    init.qcom.sh \
-    init.qti.dcvs.sh \
     init.target.rc\
     init.xiaomi.rc \
-    ueventd.qcom.rc
+    ueventd.xiaomi.rc
 
 # IR
 PRODUCT_PACKAGES += \
@@ -272,6 +265,7 @@ TARGET_COMMON_QTI_COMPONENTS := \
     adreno \
     av \
     display \
+    init \
     media-legacy \
     overlay \
     perf \
